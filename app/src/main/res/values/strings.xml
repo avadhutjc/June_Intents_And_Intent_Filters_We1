@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">5) 30June_Intents_And_Intent_Filters_We1</string>
+    <string name="enter_the_email_address">Enter the Email Address</string>
+    <string name="enter_the_email_username">Enter the Email Username</string>
+    <string name="enter_the_email_password">Enter the Email Password</string>
+    <string name="login">Login</string>
+</resources>
